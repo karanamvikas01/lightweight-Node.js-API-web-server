@@ -1,0 +1,5 @@
+*To Clean Up the Workspace run the below commands*
+
+bashdocker stop node-container
+
+docker rm node-container
